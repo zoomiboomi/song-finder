@@ -9,7 +9,7 @@ async function searchSong() {
   
   // You need to replace 'YOUR_ACCESS_TOKEN' with a valid Spotify API access token.
   const headers = {
-    'Authorization': 'Bearer YOUR_ACCESS_TOKEN'
+    'Authorization': 'Bearer 13eaccb8c76f4924aec135207fc5869d'
   };
   
   try {
